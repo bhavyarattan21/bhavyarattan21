@@ -69,7 +69,7 @@ An AI project built in JavaScript, in active development.
 | 🤖 [**JansetuAI**](https://github.com/bhavyarattan21/JansetuAI) <br/>*Ongoing* | AI-driven web project | Active development | JavaScript |
 | 🛡️ [**Secure LLM Inference Platform**](https://github.com/bhavyarattan21/secure-llm-inference-platform) <br/>*Jan 2026 – Mar 2026* | Simulates prompt injection and jailbreak attacks and measures defenses | Dashboards for 3+ threat categories, ~40% less manual monitoring | JavaScript, REST APIs |
 | 🏥 [**Rural Medico Platform**](https://github.com/bhavyarattan21/Bhavya_rattan_BCA_Rural_Medico) <br/>*Mar 2025 – Jul 2025* | Telemedicine platform for affordable rural healthcare | Mobile-responsive UI, appointment booking, role-based access, secure auth | Node.js, MySQL, HTML/CSS/JS |
-| 📈 **Sales Data Analysis Dashboard**](https://github.com/bhavyarattan21/Data_Preprocessing_Project) <br/>*Sep 2025 – Nov 2025* | Revenue trend and customer pattern analysis | 5,000+ rows analyzed, 6+ KPIs, ~30% less preprocessing time | Power BI, Pandas |
+| 📈 [**Sales Data Analysis Dashboard**](https://github.com/bhavyarattan21/Data_Preprocessing_Project) <br/>*Sep 2025 – Nov 2025* | Revenue trend and customer pattern analysis | 5,000+ rows analyzed, 6+ KPIs, ~30% less preprocessing time | Power BI, Pandas |
 | 🧹 [**Data Preprocessing Project**](https://github.com/bhavyarattan21/Data_Preprocessing_Project) | Data cleaning and preparation workflow | Reusable preprocessing steps | Python, Jupyter |
 
 ---
