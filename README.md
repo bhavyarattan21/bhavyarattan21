@@ -1,9 +1,10 @@
+README · MD
 <div align="center">
-
 
 <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Smart+City+Forecasting+models;Working+on+JansetuAI;Turning+data+into+dashboards+and+decisions;Open+to+software+%26+data+analytics+roles" alt="Typing SVG" /> </a> <br/>
 
 </div>
+
 👋 About Me
 
 Hi, I'm Bhavya Rattan, a BCA (AI & Data Science) student at K.R. Mangalam University, Gurugram, based in New Delhi.
@@ -95,6 +96,6 @@ LinkedIn GitHub Email
 </div>
 <div align="center">
 
-Turning data into decisions. 🚀
+"Turning data into decisions." 🚀
 
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" /> </div>
