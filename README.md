@@ -1,6 +1,6 @@
 <!-- ===================== HEADER ===================== --> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Bhavya%20Rattan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=BCA%20%28AI%20%26%20Data%20Science%29%20%7C%20Forecasting%20%7C%20Full-Stack&descSize=18&descAlignY=58" alt="header" /> <a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Building+Smart+City+Forecasting+models;Working+on+JansetuAI;Turning+data+into+dashboards+and+decisions;Open+to+software+%26+data+analytics+roles" alt="Typing SVG" /> </a> <br/>
 
-Show Image Show Image Show Image Show Image
+
 
 </div>
 👋 About Me
