@@ -15,7 +15,6 @@
 </div>
 
 ---
-
 ## 👋 About Me
 
 Hi, I'm **Bhavya Rattan**, a BCA (AI & Data Science) student at **K.R. Mangalam University, Gurugram**, based in New Delhi.
@@ -38,7 +37,7 @@ bhavya = {
 
 ## 🔥 Currently Working On
 
-### 🏙️ Smart City Forecasting
+### Smart City Forecasting
 
 Forecasting models for smart-city data, built around time-series analysis and predictive modelling in Python.
 
